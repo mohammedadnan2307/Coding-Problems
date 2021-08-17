@@ -1,4 +1,4 @@
-#Problem: Dance Battle
+# Problem: Dance Battle
 
 Your team is about to prove itself in a dance battle! Initially, your team has **E** points of energy, and 0 points of honor. There are **N** rival teams who you must face; the i-th of these teams is the i-th in a lineup, and has a dancing skill of **Si**.
 
@@ -11,23 +11,23 @@ In each round of battle, you will face the next rival team in the lineup, and yo
 
 The battle is over when there are no more rival teams in the lineup. If you make optimal decisions, what is the maximum amount of honor you can have when the battle is over?
 
-##Input
+## Input
 The first line of the input gives the number of test cases, **T**. **T** test cases follow; each consists of two lines. The first line consists of two integers **E** and **N**: your team's energy, and the number of rival teams. The second line consists of **N** integers **Si**; the i-th of these represents the dancing skill of the rival team that is i-th in line at the start of the battle.
 
-##Output
+## Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the maximum amount of honor you can have when the battle is over.
 
-##Limits
+## Limits
 Time limit: 20 seconds.
 Memory limit: 1 GB.
 1≤**T**≤100.
 1≤**E**≤106.
 1≤**Si**≤106, for all i.
 
-###Test Set 1
+### Test Set 1
 1≤**N**≤5.
 
-###Test Set 2
+### Test Set 2
 1≤**N**≤1000.
 
 Sample Input

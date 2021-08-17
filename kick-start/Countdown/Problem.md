@@ -24,10 +24,8 @@ Test Set 2
 2≤N≤2×105 for at most 10 test cases.
 For the remaining cases, 2≤N≤1000.
 
-Sample
 Sample Input
-save_alt
-content_copy
+```
 3
 12 3
 1 2 3 7 9 3 2 1 8 3 2 1
@@ -35,18 +33,22 @@ content_copy
 101 100 99 98
 9 6
 100 7 6 5 4 3 2 1 100
+
+```
+
 Sample Output
-save_alt
-content_copy
+```
 Case #1: 2
 Case #2: 0
 Case #3: 1
+
+```
 In sample case #1, there are two 3⁠-⁠countdowns as highlighted below.
 
-1 2 3 7 9 3 2 1 8 3 2 1
-1 2 3 7 9 3 2 1 8 3 2 1
+1 2 3 7 9 **3 2 1** 8 3 2 1
+1 2 3 7 9 3 2 1 8 **3 2 1**
 In sample case #2, there are no 2⁠-⁠countdowns.
 
 In sample case #3, there is one 6⁠-⁠countdown as highlighted below.
 
-100 7 6 5 4 3 2 1 100
+100 7 **6 5 4 3 2 1** 100

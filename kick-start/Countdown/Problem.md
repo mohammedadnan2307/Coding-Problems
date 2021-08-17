@@ -6,13 +6,13 @@ A contiguous subarray is an m-countdown if it is of length m and contains the in
 
 Can you help Avery count the number of **K**-countdowns in her array?
 
-Input
+## Input
 The first line of the input gives the number of test cases, **T** . **T** test cases follow. Each test case begins with a line containing the integers **N** and **K**. The second line contains **N** integers. The i⁠-⁠th integer is **Ai**.
 
-Output
+## Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the number of **K**-countdowns in her array.
 
-Limits
+## Limits
 Time limit: 20 seconds.
 Memory limit: 1 GB.
 1≤**T**≤100.
@@ -24,7 +24,7 @@ Test Set 2
 2≤**N**≤2×105 for at most 10 test cases.
 For the remaining cases, **2≤N≤1000**.
 
-Sample Input
+### Sample Input
 ```
 3
 12 3
@@ -36,7 +36,7 @@ Sample Input
 
 ```
 
-Sample Output
+### Sample Output
 ```
 Case #1: 2
 Case #2: 0

@@ -30,7 +30,7 @@ Memory limit: 1 GB.
 ### Test Set 2
 1≤**N**≤1000.
 
-Sample Input
+### Sample Input
 ```
 2
 100 1
@@ -39,7 +39,7 @@ Sample Input
 20 3 15
 ```
 
-Sample Output
+### Sample Output
 ```
 Case #1: 0
 Case #2: 1

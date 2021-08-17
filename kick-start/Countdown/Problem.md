@@ -47,6 +47,7 @@ In sample case #1, there are two 3⁠-⁠countdowns as highlighted below.
 
 1 2 3 7 9 **3 2 1** 8 3 2 1
 1 2 3 7 9 3 2 1 8 **3 2 1**
+
 In sample case #2, there are no 2⁠-⁠countdowns.
 
 In sample case #3, there is one 6⁠-⁠countdown as highlighted below.

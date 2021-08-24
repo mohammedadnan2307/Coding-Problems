@@ -10,9 +10,7 @@ For example, S = "abbab" and A = [-1, 0, 0, 0, 2] represents a tree made of five
 
 Your task is to find the number of vertices on the longest path in the tree, such that no pair of adjacent vertices on the path would contain the same letter.
 
-Write a function:
-
-**int solution(string s, vector**<int> a)**
+Write a function: **int solution(string s, vector<int> a)**
 
 that, given string S and array A of N integers, returns an integer representing the number of vertices on the longest path in which no two consecutive vertices contain the same letter.
 

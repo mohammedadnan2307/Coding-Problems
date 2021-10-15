@@ -43,8 +43,6 @@ Memory limit: 1 GB.
 ```
 Case #1: 0
 Case #2: 1
-var polynomialSolver = require("polynomial-solver");
-console.log(polynomialSolver.calculateCriticalPoints("x^2-5x+6")); 
 ```
 
 In Sample Case #1, there is only one rival team. You cannot dance against them because it would make your energy fall to 0, and you cannot recruit them because it would make your honor fall below 0. Delaying does not help, so the only option is to declare a truce. You finish with 0 honor.
